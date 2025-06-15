@@ -1,3 +1,4 @@
 # testing
-just testing the git, that how it works.
-Auther -  Rohit Sharma
+just testing the git, that's how it works.
+<br>
+Author -  Rohit Sharma
